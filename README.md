@@ -2,6 +2,7 @@ Patches applied
 ---------------
 - dwm-sticky-6.5 [Link](https://dwm.suckless.org/patches/sticky/dwm-sticky-6.5.diff)
 - dwm-actualfullscreen-20211013-cb3f58a [Link](https://dwm.suckless.org/patches/actualfullscreen/dwm-actualfullscreen-20211013-cb3f58a.diff)
+- dwm-preventfocusshift-20240831-6.5 [Link](https://dwm.suckless.org/patches/preventfocusshift/dwm-preventfocusshift-20240831-6.5.diff)
 
 
 dwm - dynamic window manager
