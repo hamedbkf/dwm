@@ -1,3 +1,8 @@
+Patches applied
+---------------
+- dwm-sticky-6.5 [Link](https://dwm.suckless.org/patches/sticky/dwm-sticky-6.5.diff)
+
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
