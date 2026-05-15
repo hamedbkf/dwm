@@ -5,7 +5,8 @@ static const unsigned int borderpx  = 2;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "terminus:pixelsize=14:weight=bold" };
+static const char *fonts[]          = { "terminus:pixelsize=14:weight=bold",
+                                        "Noto Kufi Arabic:pixelsize=14:weight=bold"};
 static const char col_white[]       = "#ffffff";
 static const char col_black[]       = "#000000";
 static const char col_gray[]        = "#dedede";
